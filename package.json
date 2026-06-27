@@ -1,0 +1,11 @@
+{
+  "name": "dsa-problem",
+  "version": "1.0.0",
+  "description": "A curated collection of Data Structures &amp; Algorithms problems with optimized solutions, explanations, and complexity analysis. Organized by topic to support interview preparation and consistent problem-solving practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
