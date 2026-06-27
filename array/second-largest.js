@@ -14,6 +14,7 @@ function findSecondLargestElement(arr) {
       secondLargest = arr[i];
     }
   }
+
   return secondLargest;
 }
 
